@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "412129449003",
+    "project_id": "winners-world",
+    "storage_bucket": "winners-world.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412129449003:android:b8a4365a8161012de4466e",
+        "android_client_info": {
+          "package_name": "com.example.winners_world_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412129449003-571btldtokqllcb3h8kvoqsnc8446p29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA__SWbzYwz7UrKgqxhTwT-1n3FTRJ2JUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412129449003-571btldtokqllcb3h8kvoqsnc8446p29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
